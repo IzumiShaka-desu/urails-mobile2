@@ -1,0 +1,578 @@
+{
+  "stations" : [
+    {
+      "station_id": "AC",
+      "station_name": "ANCOL",
+      "longitude": 106.845,
+      "latitude": -6.12802,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "AK",
+      "station_name": "ANGKE",
+      "longitude": 106.799,
+      "latitude": -6.14467,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "BJD",
+      "station_name": "BOJONGGEDE",
+      "longitude": 106.793,
+      "latitude": -6.49324,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "BKS",
+      "station_name": "BEKASI",
+      "longitude": 106.997,
+      "latitude": -6.23662,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "BKST",
+      "station_name": "BEKASITIMUR",
+      "longitude": 107.017,
+      "latitude": -6.24803,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "BOI",
+      "station_name": "BOJONGINDAH",
+      "longitude": 106.737,
+      "latitude": -6.15988,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "BOO",
+      "station_name": "BOGOR",
+      "longitude": 106.791,
+      "latitude": -6.5946,
+      "station_type": "TRANSIT"
+    },
+    {
+      "station_id": "BPR",
+      "station_name": "BATUCEPER",
+      "longitude": 106.665,
+      "latitude": -6.17181,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "BUA",
+      "station_name": "BUARAN",
+      "longitude": 106.923,
+      "latitude": -6.21557,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CBN",
+      "station_name": "CIBINONG",
+      "longitude": 106.852,
+      "latitude": -6.46424,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CC",
+      "station_name": "CICAYUR",
+      "longitude": 106.618,
+      "latitude": -6.32955,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CIT",
+      "station_name": "CIBITUNG",
+      "longitude": 107.083,
+      "latitude": -6.26188,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CJT",
+      "station_name": "CILEJIT",
+      "longitude": 106.508,
+      "latitude": -6.35435,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CKI",
+      "station_name": "CIKINI",
+      "longitude": 106.84,
+      "latitude": -6.19856,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CKR",
+      "station_name": "CIKARANG",
+      "longitude": 107.145,
+      "latitude": -6.25531,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CKY",
+      "station_name": "CIKOYA",
+      "longitude": 106.411,
+      "latitude": -6.33561,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CLT",
+      "station_name": "CILEBUT",
+      "longitude": 106.8,
+      "latitude": -6.53054,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CSK",
+      "station_name": "CISAUK",
+      "longitude": 106.64,
+      "latitude": -6.32484,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CTA",
+      "station_name": "CITAYAM",
+      "longitude": 106.8,
+      "latitude": -6.44881,
+      "station_type": "TRANSIT"
+    },
+    {
+      "station_id": "CTR",
+      "station_name": "CITERAS",
+      "longitude": 106.332,
+      "latitude": -6.33489,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CUK",
+      "station_name": "CAKUNG",
+      "longitude": 106.951,
+      "latitude": -6.21905,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "CW",
+      "station_name": "CAWANG",
+      "longitude": 106.857,
+      "latitude": -6.24251,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "DAR",
+      "station_name": "DARU",
+      "longitude": 106.491,
+      "latitude": -6.33802,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "DP",
+      "station_name": "DEPOK",
+      "longitude": 106.817,
+      "latitude": -6.40526,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "DPB",
+      "station_name": "DEPOKBARU",
+      "longitude": 106.819,
+      "latitude": -6.39106,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "DRN",
+      "station_name": "DURENKALIBATA",
+      "longitude": 106.854,
+      "latitude": -6.25533,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "DU",
+      "station_name": "DURI",
+      "longitude": 106.801,
+      "latitude": -6.15522,
+      "station_type": "TRANSIT"
+    },
+    {
+      "station_id": "GDD",
+      "station_name": "GONDANGDIA",
+      "longitude": 106.832,
+      "latitude": -6.18629,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "GGL",
+      "station_name": "GROGOL",
+      "longitude": 106.788,
+      "latitude": -6.16202,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "GST",
+      "station_name": "GANGSENTIONG",
+      "longitude": 106.85,
+      "latitude": -6.18598,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "JAKK",
+      "station_name": "JAKARTAKOTA",
+      "longitude": 106.812,
+      "latitude": -6.13757,
+      "station_type": "TRANSIT"
+    },
+    {
+      "station_id": "JAY",
+      "station_name": "JAYAKARTA",
+      "longitude": 106.821,
+      "latitude": -6.1412,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "JMU",
+      "station_name": "JURANGMANGU",
+      "longitude": 106.729,
+      "latitude": -6.28893,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "JNG",
+      "station_name": "JATINEGARA",
+      "longitude": 106.868,
+      "latitude": -6.21509,
+      "station_type": "TRANSIT"
+    },
+    {
+      "station_id": "JUA",
+      "station_name": "JUANDA",
+      "longitude": 106.83,
+      "latitude": -6.16643,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "KAT",
+      "station_name": "KARET",
+      "longitude": 106.816,
+      "latitude": -6.20132,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "KBY",
+      "station_name": "KEBAYORAN",
+      "longitude": 106.78,
+      "latitude": -6.23724,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "KDS",
+      "station_name": "KALIDERES",
+      "longitude": 106.702,
+      "latitude": -6.16607,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "KLD",
+      "station_name": "KLENDER",
+      "longitude": 106.9,
+      "latitude": -6.2135,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "KLDB",
+      "station_name": "KLENDERBARU",
+      "longitude": 106.94,
+      "latitude": -6.21746,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "KMO",
+      "station_name": "KEMAYORAN",
+      "longitude": 106.839,
+      "latitude": -6.16173,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "KMT",
+      "station_name": "KRAMAT",
+      "longitude": 106.855,
+      "latitude": -6.19379,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "KPB",
+      "station_name": "KAMPUNGBANDAN",
+      "longitude": 106.826,
+      "latitude": -6.13255,
+      "station_type": "TRANSIT"
+    },
+    {
+      "station_id": "KRI",
+      "station_name": "KRANJI",
+      "longitude": 106.978,
+      "latitude": -6.22451,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "LNA",
+      "station_name": "LENTENGAGUNG",
+      "longitude": 106.833,
+      "latitude": -6.33036,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "MGB",
+      "station_name": "MANGGABESAR",
+      "longitude": 106.825,
+      "latitude": -6.14977,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "MJ",
+      "station_name": "MAJA",
+      "longitude": 106.394,
+      "latitude": -6.33231,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "MRI",
+      "station_name": "MANGGARAI",
+      "longitude": 106.849,
+      "latitude": -6.20988,
+      "station_type": "TRANSIT"
+    },
+    {
+      "station_id": "MTM",
+      "station_name": "M.TELAGAMURNI",
+      "longitude": 107.093,
+      "latitude": -6.26294,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "NMO",
+      "station_name": "NAMBO",
+      "longitude": 106.905,
+      "latitude": -6.46628,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "PDJ",
+      "station_name": "PONDOKRANJI",
+      "longitude": 106.743,
+      "latitude": -6.27636,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "PI",
+      "station_name": "PORIS",
+      "longitude": 106.679,
+      "latitude": -6.16993,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "PLM",
+      "station_name": "PALMERAH",
+      "longitude": 106.797,
+      "latitude": -6.2074,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "POC",
+      "station_name": "PONDOKCINA",
+      "longitude": 106.831,
+      "latitude": -6.36907,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "POK",
+      "station_name": "PONDOKJATI",
+      "longitude": 106.862,
+      "latitude": -6.20919,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "PRP",
+      "station_name": "PARUNGPANJANG",
+      "longitude": 106.569,
+      "latitude": -6.34414,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "PSE",
+      "station_name": "PASARSENEN",
+      "longitude": 106.844,
+      "latitude": -6.17478,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "PSG",
+      "station_name": "PESING",
+      "longitude": 106.771,
+      "latitude": -6.16143,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "PSM",
+      "station_name": "PASARMINGGU",
+      "longitude": 106.844,
+      "latitude": -6.28424,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "PSMB",
+      "station_name": "PAS.MINGGUBARU",
+      "longitude": 106.852,
+      "latitude": -6.26321,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "RJW",
+      "station_name": "RAJAWALI",
+      "longitude": 106.837,
+      "latitude": -6.14505,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "RK",
+      "station_name": "RANGKASBITUNG",
+      "longitude": 106.25,
+      "latitude": -6.35267,
+      "station_type": "TRANSIT"
+    },
+    {
+      "station_id": "RU",
+      "station_name": "RAWABUNTU",
+      "longitude": 106.675,
+      "latitude": -6.31482,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "RW",
+      "station_name": "RAWABUAYA",
+      "longitude": 106.723,
+      "latitude": -6.16276,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "SDM",
+      "station_name": "SUDIMARA",
+      "longitude": 106.712,
+      "latitude": -6.29696,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "SRP",
+      "station_name": "SERPONG",
+      "longitude": 106.666,
+      "latitude": -6.31987,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "SUD",
+      "station_name": "SUDIRMAN",
+      "longitude": 106.823,
+      "latitude": -6.20226,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "SW",
+      "station_name": "SAWAHBESAR",
+      "longitude": 106.827,
+      "latitude": -6.16072,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "TB",
+      "station_name": "TAMBUN",
+      "longitude": 107.056,
+      "latitude": -6.25886,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "TEB",
+      "station_name": "TEBET",
+      "longitude": 106.858,
+      "latitude": -6.22666,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "TEJ",
+      "station_name": "TENJO",
+      "longitude": 106.461,
+      "latitude": -6.32725,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "TGS",
+      "station_name": "TIGARAKSA",
+      "longitude": 106.426,
+      "latitude": -6.32853,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "THB",
+      "station_name": "TANAHABANG",
+      "longitude": 106.811,
+      "latitude": -6.18555,
+      "station_type": "TRANSIT"
+    },
+    {
+      "station_id": "TKO",
+      "station_name": "TAMANKOTA",
+      "longitude": 106.757,
+      "latitude": -6.15873,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "TNG",
+      "station_name": "TANGERANG",
+      "longitude": 106.633,
+      "latitude": -6.17658,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "TNT",
+      "station_name": "TANJUNGBARAT",
+      "longitude": 106.839,
+      "latitude": -6.30807,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "TPK",
+      "station_name": "TANJUNGPRIUK",
+      "longitude": 106.88,
+      "latitude": -6.11095,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "TTI",
+      "station_name": "TANAHTINGGI",
+      "longitude": 106.647,
+      "latitude": -6.17331,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "UI",
+      "station_name": "UNIV.INDONESIA",
+      "longitude": 106.831,
+      "latitude": -6.36075,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "UP",
+      "station_name": "UNIV.PANCASILA",
+      "longitude": 106.834,
+      "latitude": -6.33929,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "SUDB",
+      "station_name": "SUDIRMAN BARU",
+      "longitude": 106.82,
+      "latitude": -6.20143,
+      "station_type": "SMALL"
+    },
+    {
+      "station_id": "MTR",
+      "station_name": "MATRAMAN",
+      "longitude": 106.859,
+      "latitude": -6.21248,
+      "station_type": "SMALL"
+    }
+  ]
+}

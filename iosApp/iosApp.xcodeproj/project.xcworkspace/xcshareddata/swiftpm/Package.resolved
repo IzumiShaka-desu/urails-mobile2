@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "map",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pauljohanneskraft/Map",
+      "state" : {
+        "revision" : "3eed43ceaf7892a4021a34f87da2e6561e50318c",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "c51ba84499268ea3020e6aee9e229c0f56b9d924",
+        "version" : "5.16.0"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI",
+      "state" : {
+        "revision" : "e837c37d45449fbd3b4745c10c5b5274e73edead",
+        "version" : "2.2.3"
+      }
+    },
+    {
+      "identity" : "swiftuix",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftUIX/SwiftUIX",
+      "state" : {
+        "branch" : "master",
+        "revision" : "2a8c50182df816321899803f8d30bc429f4d5011"
+      }
+    }
+  ],
+  "version" : 2
+}
